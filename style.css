@@ -146,7 +146,7 @@ body{
     gap: 2rem;
     padding-bottom: 6rem;
 }
-.
+
 @keyframes slideRight{
     0%{
         transform: translateX(-100px);
@@ -188,7 +188,7 @@ body{
     }
 
 
-
+}
 
 
 
